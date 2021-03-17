@@ -24,7 +24,7 @@ export default {
     97: '0x77bf554fa1c0336f01e1d363ab57b1e7e0f48e6c',
   },
   busd: {
-    56: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
-    97: '',
+    56: '0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee',
+    97: '0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee',
   },
 }
