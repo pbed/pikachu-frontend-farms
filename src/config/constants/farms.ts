@@ -19,7 +19,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 1,
+    pid: 44,
     risk: 5,
     lpSymbol: 'EGG-BNB LP',
     lpAddresses: {
@@ -179,10 +179,10 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 0,
+    pid: 1,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'EGG OOa',
+    lpSymbol: 'EGG OOb',
     lpAddresses: {
       97: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67',
       56: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67', // EGG-BUSD LP
