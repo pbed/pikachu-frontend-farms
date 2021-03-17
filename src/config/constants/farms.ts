@@ -3,7 +3,7 @@ import { FarmConfig, QuoteToken } from './types'
 
 const farms: FarmConfig[] = [
   {
-    pid: 0,
+    pid: 12,
     risk: 5,
     lpSymbol: 'EGG-BUSD LP',
     lpAddresses: {
@@ -179,10 +179,10 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 12,
+    pid: 0,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'EGG OO',
+    lpSymbol: 'EGG OOa',
     lpAddresses: {
       97: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67',
       56: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67', // EGG-BUSD LP
