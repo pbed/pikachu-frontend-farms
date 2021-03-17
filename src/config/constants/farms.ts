@@ -182,15 +182,15 @@ const farms: FarmConfig[] = [
     pid: 12,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'EGG',
+    lpSymbol: 'EGG OO',
     lpAddresses: {
-      97: '',
-      56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019', // EGG-BUSD LP
+      97: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67',
+      56: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67', // EGG-BUSD LP
     },
     tokenSymbol: 'EGG O',
     tokenAddresses: {
-      97: '',
-      56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
+      97: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67',
+      56: '0xb18e66e489113b24e3a236ba8b8a1e2697d56a67',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
